@@ -6,6 +6,6 @@ Package.describe({
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.0.1');
-  api.addFiles('js-schema.min.js');
+  api.addFiles('lib/js-schema.min.js');
   api.export('schema', ['client', 'server']);
 });
