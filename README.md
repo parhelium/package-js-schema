@@ -19,7 +19,7 @@ Meteor package adding [js-schema](https://github.com/molnarg/js-schema)@0.7.0 li
     console.log( Duck(myCat)  ); // false
 
 
-### Validation with errors:
+### Validation with errors
 
     Duck.errors({
       swim: function() {},
@@ -34,3 +34,6 @@ Meteor package adding [js-schema](https://github.com/molnarg/js-schema)@0.7.0 li
     //   color: 'string = green is not reference to string = yellow AND
     //           string = green is not reference to string = brown'
     // }
+    
+    
+### [Documentation](https://github.com/molnarg/js-schema)
