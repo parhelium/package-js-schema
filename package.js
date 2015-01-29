@@ -1,6 +1,6 @@
 Package.describe({
   summary: "js-schema library package",
-  version: "1.0.1",
+  version: "1.0.2",
   git: "https://github.com/parhelium/package-js-schema"
 });
 
