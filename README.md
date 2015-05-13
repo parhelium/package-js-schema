@@ -1,7 +1,7 @@
 js-schema library packaged for Meteor
 =================
 
-Meteor package adding [js-schema](https://github.com/molnarg/js-schema)@0.7.2 library to `client` and `server`.
+Meteor package adding [js-schema](https://github.com/molnarg/js-schema)@1.0.2 library to `client` and `server`.
 
 ## Usage
 
